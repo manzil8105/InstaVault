@@ -1,0 +1,25 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# Heavy Datasets & Media
+dataset_mk_8105/
+temp_reels/
+raw_media/
+
+# Private Vault Data
+Obsidian_Notes/
+saved_collections.json
+L.txt
+
+# Logs, Caches, & Bundles
+*.log
+vault_context.xml
+skipped_posts_cache.txt
+processed_posts.json
+processed_hashes.json
+
+# macOS / IDE
+.DS_Store
+.vscode/
